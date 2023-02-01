@@ -1,1 +1,4 @@
 # sistemaoperacionalgeneralista
+
+# Essa programa tem a objetiva de ser uma sistema operacional generalista para qualquer tipa de arquitetura de computador ou computadores
+# Exemplas: Sistema operacional convencional, sistema operacional para uma Casa, sistema operacional para uma veícula de transporte de qualquer natureza como aviões,carros, motos,helicoptero,navio, submarina,drone,lancha,jato,caminhão,onibus, sistema operacional de satelite, de fogueta, de servidores, de banco de dados , de super computadoras, de internet das coisas, bunker,estação de tele-comunicações, estação de rádio, estação espacial, estação de observação espacial, rede de computadoras, clinicas, hospitais, industria, super-mercados, extração quimica, separação quimica, mineração, transporte, pesquisa, ensino , universidade, escola , máquinas médicas, hospital, orfanato, empresa, banco, estatisticas, probabiidade, construção, e etc.
